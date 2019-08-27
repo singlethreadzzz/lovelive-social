@@ -1,3 +1,7 @@
+nz-layout {
+  min-height: 100%
+}
+
 nz-content {
   padding: 0 50px;
   width: 100%;
@@ -6,7 +10,7 @@ nz-content {
   background-image: url(../assets/backgrand.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  min-height: 500px;
+  min-height: 100%;
   background-size: cover;
 }
 
